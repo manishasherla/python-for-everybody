@@ -41,7 +41,7 @@ if
 make
 names
 
-Answer: if
+Answer: if and break
 
 Question 5
 What is the proper way to say “good-bye” to Python?
